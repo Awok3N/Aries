@@ -1,0 +1,22 @@
+{
+  "name": "Aries",
+  "version": "1.0.0",
+  "description": "CryptoCurrency App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Awok3N/aries",
+  "keywords": [
+    "crypto",
+    "bitcoin",
+    "ripple",
+    "etherium",
+    "coin"
+  ],
+  "author": "Awok3N",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  }
+}
